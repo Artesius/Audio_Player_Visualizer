@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer [CYBERS-TE4M]\Audio_Spectrum_Analyzer\bin\Debug\Audio_Spectrum_Analyzer.exe
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer [CYBERS-TE4M]\Audio_Spectrum_Analyzer\bin\Debug\Audio_Spectrum_Analyzer.pdb
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer [CYBERS-TE4M]\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.Form1.resources
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer [CYBERS-TE4M]\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.Properties.Resources.resources
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer [CYBERS-TE4M]\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer [CYBERS-TE4M]\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.exe
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer [CYBERS-TE4M]\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.pdb
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.exe
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.pdb
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer\Audio_Spectrum_Analyzer\bin\Debug\Audio_Spectrum_Analyzer.exe
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer\Audio_Spectrum_Analyzer\bin\Debug\Audio_Spectrum_Analyzer.pdb
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.Form1.resources
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.Properties.Resources.resources
+C:\Users\User\Desktop\Audio_Spectrum_Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.csproj.GenerateResource.Cache
+F:\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.exe
+F:\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.pdb
+F:\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\bin\Debug\Audio_Spectrum_Analyzer.exe
+F:\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\bin\Debug\Audio_Spectrum_Analyzer.pdb
+F:\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.csprojAssemblyReference.cache
+F:\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.Form1.resources
+F:\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.Properties.Resources.resources
+F:\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.csproj.GenerateResource.cache
+F:\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\pasko\Desktop\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\bin\Debug\Audio_Spectrum_Analyzer.exe
+C:\Users\pasko\Desktop\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\bin\Debug\Audio_Spectrum_Analyzer.pdb
+C:\Users\pasko\Desktop\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.csprojAssemblyReference.cache
+C:\Users\pasko\Desktop\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.Form1.resources
+C:\Users\pasko\Desktop\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.Properties.Resources.resources
+C:\Users\pasko\Desktop\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.csproj.GenerateResource.cache
+C:\Users\pasko\Desktop\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.exe
+C:\Users\pasko\Desktop\Kval\My Dear Analyzer\Audio_Spectrum_Analyzer\obj\x86\Debug\Audio_Spectrum_Analyzer.pdb

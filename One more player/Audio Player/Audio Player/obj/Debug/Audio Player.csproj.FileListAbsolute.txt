@@ -1,0 +1,122 @@
+C:\Users\User\Desktop\Audio Player\Audio Player\bin\Debug\Audio Player.exe.config
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\Audio Player.exe.config
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\bass.dll
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\Audio Player.exe
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\Audio Player.pdb
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\Bass.Net.dll
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\ColorSlider.dll
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\ColorSlider.pdb
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\Bass.Net.xml
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\obj\Debug\Audio Player.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\obj\Debug\Audio_Player.Form1.resources
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\obj\Debug\Audio_Player.Properties.Resources.resources
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\obj\Debug\Audio Player.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\obj\Debug\Audio Player.exe
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\obj\Debug\Audio Player.pdb
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\plugins\bassalac.dll
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\plugins\bassflac.dll
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\plugins\bassopus.dll
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\plugins\basswma.dll
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\plugins\basswv.dll
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\plugins\bass_aac.dll
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\plugins\bass_ac3.dll
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\plugins\bass_ape.dll
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\plugins\bass_mpc.dll
+C:\Users\User\Desktop\Programing\Еще один плеер\Audio Player\Audio Player\bin\Debug\plugins\bass_tta.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\Audio Player.exe.config
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.exe
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.pdb
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\bass.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\plugins\bassalac.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\plugins\bassflac.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\plugins\bassopus.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\plugins\basswma.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\plugins\basswv.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_aac.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_ac3.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_ape.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_mpc.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_tta.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\Audio Player.exe
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\Audio Player.pdb
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\Bass.Net.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\ColorSlider.dll
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\ColorSlider.pdb
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\bin\Debug\Bass.Net.xml
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\obj\Debug\Audio_Player.Form1.resources
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\obj\Debug\Audio_Player.Properties.Resources.resources
+C:\Users\User\Desktop\Programing\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.csproj.GenerateResource.Cache
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\Audio Player.exe.config
+E:\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.exe
+E:\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.pdb
+E:\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.csprojResolveAssemblyReference.cache
+E:\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio_Player.Properties.Resources.resources
+E:\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.csproj.GenerateResource.Cache
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\bass.dll
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bassalac.dll
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bassflac.dll
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bassopus.dll
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\basswma.dll
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\basswv.dll
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_aac.dll
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_ac3.dll
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_ape.dll
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_mpc.dll
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_tta.dll
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\Audio Player.exe
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\Audio Player.pdb
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\Bass.Net.dll
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\ColorSlider.dll
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\ColorSlider.pdb
+E:\Kval\One more player\Audio Player\Audio Player\bin\Debug\Bass.Net.xml
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\Audio Player.exe.config
+F:\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.exe
+F:\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.pdb
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\bass.dll
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bassalac.dll
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bassflac.dll
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bassopus.dll
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\basswma.dll
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\basswv.dll
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_aac.dll
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_ac3.dll
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_ape.dll
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_mpc.dll
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_tta.dll
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\Audio Player.exe
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\Audio Player.pdb
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\Bass.Net.dll
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\ColorSlider.dll
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\ColorSlider.pdb
+F:\Kval\One more player\Audio Player\Audio Player\bin\Debug\Bass.Net.xml
+F:\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.csprojResolveAssemblyReference.cache
+F:\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio_Player.Properties.Resources.resources
+F:\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.csproj.GenerateResource.Cache
+F:\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio_Player.FormPlayer.resources
+E:\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio_Player.FormPlayer.resources
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\bass.dll
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bassalac.dll
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bassflac.dll
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bassopus.dll
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\basswma.dll
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\basswv.dll
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_aac.dll
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_ac3.dll
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_ape.dll
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_mpc.dll
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\plugins\bass_tta.dll
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\Audio Player.exe.config
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\Audio Player.exe
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\Audio Player.pdb
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\Bass.Net.dll
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\ColorSlider.dll
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\ColorSlider.pdb
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\bin\Debug\Bass.Net.xml
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.csprojAssemblyReference.cache
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio_Player.Properties.Resources.resources
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.csproj.GenerateResource.cache
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.csproj.CopyComplete
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.exe
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio Player.pdb
+C:\Users\pasko\Desktop\Kval\One more player\Audio Player\Audio Player\obj\Debug\Audio_Player.playerForm.resources
